@@ -1,5 +1,5 @@
 # WipeBlock-Rust
-
+# Discord : https://discord.gg/cSD4A44nK4
 نکات نصب سریع:
 
 فایل روی کَنواس رو با نام AdvancedWipeBlock.cs ذخیره کن و بنداز توی:
